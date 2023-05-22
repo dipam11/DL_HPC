@@ -77,3 +77,8 @@ int main(){
     cout << "Parallel DFS: ";
     pDFS(tree);
 }
+
+
+//use this  commands to run
+// g++ filename.cpp -fopenmp 
+// ./a.out

@@ -100,3 +100,7 @@ int main() {
     
     return 0;
 }
+
+//use this  commands to run
+// g++ filename.cpp -fopenmp 
+// ./a.out
